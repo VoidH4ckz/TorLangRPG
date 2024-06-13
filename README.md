@@ -19,7 +19,7 @@
 
                                                Current Version Is:
 
-##                                  TorLangRPG Version 1.0.4 - June 13, 2024
+## ____________________________TorLangRPG Version 1.0.4 - June 13, 2024
 
 
 ## _______________________Coded By Neo, Void, Ghost Face, Phantom, & UnKn0Wn.
