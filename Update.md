@@ -18,8 +18,6 @@
 ## TorLangRPG Version 1.0.4 - June 13, 2024
 ## Start of Change Note Log
 
-Split the files to maximize organizational features you can find the completed directory structure in zPyrim-Dir.md in the same folder as this.
-
 total improvments since alpha start:
 Screenshots of the game will be coming soon. 
 so stay tuned for that.
@@ -36,7 +34,7 @@ _____________________________________________________
 ## TorLangRPG Version 1.0.5 - Unreleased
 ## Start of Change Note Log
 
-
+- Nothing To Report At This Time
 
 
 
