@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Void",
+    "strength": 4,
+    "intelligence": 4,
+    "dexterity": 4,
+    "luck": 4,
+    "agility": 4,
+    "health": 100,
+    "money": 0,
+    "inventory": [
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Water Bottle"
+      },
+      {
+        "name": "Broken Gun"
+      },
+      {
+        "name": "Bandaid"
+      }
+    ]
+  },
+  {
+    "name": "Void",
+    "strength": 4,
+    "intelligence": 4,
+    "dexterity": 4,
+    "luck": 4,
+    "agility": 4,
+    "health": 100,
+    "money": 0,
+    "inventory": [
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Water Bottle"
+      },
+      {
+        "name": "Broken Gun"
+      },
+      {
+        "name": "Bandaid"
+      }
+    ]
+  },
+  {
+    "name": "void",
+    "strength": 4,
+    "intelligence": 4,
+    "dexterity": 4,
+    "luck": 4,
+    "agility": 4,
+    "health": 100,
+    "money": 0,
+    "inventory": [
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Junk"
+      },
+      {
+        "name": "Water Bottle"
+      },
+      {
+        "name": "Broken Gun"
+      },
+      {
+        "name": "Bandaid"
+      }
+    ]
+  }
+]

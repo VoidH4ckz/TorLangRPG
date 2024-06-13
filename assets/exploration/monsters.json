@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hacker",
+    "power": 10,
+    "health": 20,
+    "difficulty": 1
+  },
+  {
+    "name": "Cyborg",
+    "power": 20,
+    "health": 30,
+    "difficulty": 2
+  },
+  {
+    "name": "Android",
+    "power": 30,
+    "health": 40,
+    "difficulty": 3
+  },
+  {
+    "name": "Mech",
+    "power": 40,
+    "health": 50,
+    "difficulty": 4
+  }
+]

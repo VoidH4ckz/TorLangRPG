@@ -1,0 +1,19 @@
+{
+  "categories": {
+    "Weapons": [
+      {"name": "Sword", "cost": 20},
+      {"name": "Bow", "cost": 30},
+      {"name": "Staff", "cost": 25}
+    ],
+    "Armors": [
+      {"name": "Helmet", "cost": 15},
+      {"name": "Chainmail", "cost": 35},
+      {"name": "Plate Armor", "cost": 50}
+    ],
+    "Consumables": [
+      {"name": "Health Potion", "cost": 10},
+      {"name": "Mana Potion", "cost": 10},
+      {"name": "Elixir", "cost": 25}
+    ]
+  }
+}

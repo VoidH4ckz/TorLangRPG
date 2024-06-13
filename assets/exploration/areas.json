@@ -1,0 +1,22 @@
+[
+  {
+    "name": "City",
+    "description": "A bustling cyberpunk city with towering skyscrapers.",
+    "difficulty": 1
+  },
+  {
+    "name": "Suburbs",
+    "description": "Residential area with quieter streets and local shops.",
+    "difficulty": 2
+  },
+  {
+    "name": "Village",
+    "description": "Small village with tight-knit community and simple technology.",
+    "difficulty": 3
+  },
+  {
+    "name": "Mountains",
+    "description": "Majestic mountains with dangerous terrain and hidden paths.",
+    "difficulty": 4
+  }
+]
