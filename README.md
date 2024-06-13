@@ -26,7 +26,7 @@
 ## _____________Any questions please contact my instagram at @itzda._.phantom or @void._.h4ckz
 
 
-                                              Upcoming Update:
+                                                             Upcoming Update:
 
 ## _______________________TorLangRPG Version 1.0.5 - Unreleased - Release Date Pending
 ## ________________________________________Start of Change Note Log
