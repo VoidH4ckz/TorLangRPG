@@ -34,8 +34,15 @@ _____________________________________________________
 ## TorLangRPG Version 1.0.5 - Unreleased
 ## Start of Change Note Log
 
-- Nothing To Report At This Time
+- Added randomized loot to Jobs
+- Added Value to the Loot
+- Added Void Coin For Currency System
+- Revamped Basic Job Areas For Theme Appropriate Ones. 
+- Added New Jobs in all areas.
 
+ 
+- Coded By Neo, Void, Ghost Face, Phantom, & UnKn0Wn.
+- Any questions please contact my instagram at @itzda._.phantom or @void._.h4ckz
 
 
 
